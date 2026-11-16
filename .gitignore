@@ -36,3 +36,9 @@ sysinfo.txt
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Android / Unity 6
+.utmp/
+*.aab
+*.keystore
+*.log
